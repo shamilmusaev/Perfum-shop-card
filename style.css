@@ -126,11 +126,12 @@
 }
 
 
-    .parfum-card {
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-    }
+.parfum-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 850px;
+}
 
     .parfum-img  {
         background: url(./images/image-product-mobile.jpg) ;
